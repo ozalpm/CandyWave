@@ -75,3 +75,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Settings/URP-Balanced.asset
 Assets/Settings/URP-Performant.asset
+Assets/Settings/URP-Balanced.asset
+Assets/Settings/URP-Performant.asset
