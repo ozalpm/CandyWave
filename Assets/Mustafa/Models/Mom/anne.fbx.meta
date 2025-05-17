@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29c362919fc7ff14ea42ac22356053da
+guid: eab4332aa0a9f794aaa0027ef766aa00
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: 40d4e5ee43b243d4389d608e1a3c8046, type: 2}
+      name: Material.002
+    second: {fileID: 2100000, guid: e5d21db67feee2a40a34b0e26d62295b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -83,7 +83,8 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips:
-  - 7c4d441f3d7abe648aaf5486de4d3bbc
+  - 54e6a25b18416814fac993eb43c97803
+  - 8d654e1a7c52d8c438ca82b8dd7d533d
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -96,7 +97,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.15
+    globalScale: 0.0015
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
