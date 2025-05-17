@@ -3,28 +3,7 @@ guid: 29c362919fc7ff14ea42ac22356053da
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-<<<<<<< Updated upstream
   externalObjects: {}
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: 40d4e5ee43b243d4389d608e1a3c8046, type: 2}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   materials:
     materialImportMode: 2
     materialName: 0
@@ -98,24 +77,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-<<<<<<< Updated upstream
   referencedClips: []
-=======
-  referencedClips:
-  - 7c4d441f3d7abe648aaf5486de4d3bbc
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -128,27 +90,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     globalScale: 1
-=======
-    globalScale: 0.15
->>>>>>> Stashed changes
-=======
-    globalScale: 0.15
->>>>>>> Stashed changes
-=======
-    globalScale: 0.15
->>>>>>> Stashed changes
-=======
-    globalScale: 0.15
->>>>>>> Stashed changes
-=======
-    globalScale: 0.15
->>>>>>> Stashed changes
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
