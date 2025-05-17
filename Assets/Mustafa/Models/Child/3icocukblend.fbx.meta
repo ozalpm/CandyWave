@@ -13,6 +13,9 @@ ModelImporter:
       name: Material.001
     second: {fileID: 2100000, guid: 40d4e5ee43b243d4389d608e1a3c8046, type: 2}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -95,6 +98,9 @@ ModelImporter:
   referencedClips:
   - 7c4d441f3d7abe648aaf5486de4d3bbc
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -112,7 +118,11 @@ ModelImporter:
     feetSpacing: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     globalScale: 1
+=======
+    globalScale: 0.15
+>>>>>>> Stashed changes
 =======
     globalScale: 0.15
 >>>>>>> Stashed changes
