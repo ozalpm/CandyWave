@@ -145,14 +145,14 @@ namespace Hertzole.GoldPlayer
 #if OBSOLETE
             Debug.LogError(gameObject.name + " has GoldPlayerGraphics attached. It will be removed on build. Please remove this component if you don't intend to use it.", gameObject);
 #else
-            UpdateGraphics(owner == GraphicsOwner.Me);
+            
 #endif
         }
 
         /// <summary>
         /// Updates the graphics of all objects.
         /// </summary>
-        private void UpdateGraphics(bool isOwner)
+        public void UpdateGraphics(bool isOwner)
         {
             // Stop here if the are no objects.
             if (objects == null || objects.Length == 0)
