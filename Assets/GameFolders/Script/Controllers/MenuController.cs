@@ -11,7 +11,7 @@ public class MenuController : MonoBehaviour
 {
         public void PlayGame()
         {
-            SceneManager.LoadScene("SampleScene"); 
+            SceneManager.LoadScene("PlayMenu"); 
         }
 
         public void ExitGame()
