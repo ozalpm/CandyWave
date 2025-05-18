@@ -1,7 +1,8 @@
 using UnityEngine;
 using System.Collections;
+using Mirror;
 
-public class DoorController : MonoBehaviour
+public class DoorController : NetworkBehaviour
 {
     public float openAngle = 90f;
     public float closedAngle = 0f;
@@ -26,6 +27,7 @@ public class DoorController : MonoBehaviour
         }
     }
 
+    [Command(requiresAuthority = false)]
     public void ToggleDoor()
     {
         if (!isRotating)

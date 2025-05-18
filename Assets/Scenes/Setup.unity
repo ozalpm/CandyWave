@@ -276,7 +276,7 @@ MonoBehaviour:
   editorAutoStart: 0
   sendRate: 60
   offlineScene: Assets/Scenes/Menu.unity
-  onlineScene: Assets/Mustafa/Scenes/Main.unity
+  onlineScene: Assets/Scenes/Home Scene.unity
   offlineSceneLoadDelay: 0
   transport: {fileID: 467894308}
   networkAddress: localhost
