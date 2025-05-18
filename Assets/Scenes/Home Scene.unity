@@ -674,6 +674,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kapili duvar (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1400,6 +1410,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3893,6 +3908,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kapili duvar (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6011,6 +6036,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7047,6 +7077,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11760,6 +11795,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12849,6 +12889,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14310,6 +14355,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21787,6 +21837,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24201,6 +24256,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27292,6 +27352,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4046926407657694944, guid: fe74790a2ca8ca343bb40085df53a66e,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29079,6 +29144,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 321699571}
     m_Modifications:
+    - target: {fileID: 7844076783272794326, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     - target: {fileID: 8636565113797785859, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
         type: 3}
       propertyPath: m_Name
@@ -31865,6 +31935,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34261,6 +34336,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -36754,6 +36839,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -39838,6 +39928,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40419,6 +40514,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 321699571}
     m_Modifications:
+    - target: {fileID: 7844076783272794326, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     - target: {fileID: 8636565113797785859, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
         type: 3}
       propertyPath: m_Name
@@ -40583,6 +40683,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40750,6 +40855,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41233,6 +41343,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42595,6 +42715,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -43900,6 +44025,7 @@ Transform:
   - {fileID: 1378484114}
   - {fileID: 2116257372}
   - {fileID: 2021978164}
+  - {fileID: 1552164037}
   - {fileID: 150803466}
   - {fileID: 765468895}
   - {fileID: 543479969}
@@ -44007,6 +44133,7 @@ Transform:
   - {fileID: 95660328}
   - {fileID: 478552955}
   - {fileID: 1864204671}
+  - {fileID: 1916262787}
   - {fileID: 74894570}
   - {fileID: 638051689}
   - {fileID: 2043762481}
@@ -48898,6 +49025,85 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1552095895}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1552164036
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1384465442}
+    m_Modifications:
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -68.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.060173
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4580789341084077421, guid: df9147fc1f46f88478b8d6ae202a9eab,
+        type: 3}
+      propertyPath: m_Name
+      value: Bed_01 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df9147fc1f46f88478b8d6ae202a9eab, type: 3}
+--- !u!4 &1552164037 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3808333405826193367, guid: df9147fc1f46f88478b8d6ae202a9eab,
+    type: 3}
+  m_PrefabInstance: {fileID: 1552164036}
+  m_PrefabAsset: {fileID: 0}
 --- !u!850595691 &1553865909
 LightingSettings:
   m_ObjectHideFlags: 0
@@ -49128,6 +49334,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 321699571}
     m_Modifications:
+    - target: {fileID: 7844076783272794326, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     - target: {fileID: 8636565113797785859, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
         type: 3}
       propertyPath: m_Name
@@ -51756,6 +51967,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 321699571}
     m_Modifications:
+    - target: {fileID: 7844076783272794326, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     - target: {fileID: 8636565113797785859, guid: d038b07c4b4f9f8438d60d6c9e3349a2,
         type: 3}
       propertyPath: m_Name
@@ -52400,6 +52616,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4e6c100875c6e44b42bfad3e20dec9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58198,6 +58419,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kapili duvar (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1570615193839227978, guid: e85737234c3b9724997fd96a860eb192,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64273,6 +64504,100 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1913714912}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1916262786
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1384465442}
+    m_Modifications:
+    - target: {fileID: 399335694571002150, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_Name
+      value: Closet_11 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 159
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -60.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 265bf5bed5059f249898bc1b3b44ef96, type: 3}
+--- !u!4 &1916262787 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1063246566077858716, guid: 265bf5bed5059f249898bc1b3b44ef96,
+    type: 3}
+  m_PrefabInstance: {fileID: 1916262786}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1916448127
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64672,6 +64997,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yatay Duvar (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43b8bd8ed74f45940a680254bd8d9e6f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65313,6 +65643,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -70919,6 +71259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dikey duvar (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1289678211694065108, guid: ba3aa544b44b6184b9e9fe771d132856,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6184e4f7a59d8ac4ab1a17ae3286739f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
