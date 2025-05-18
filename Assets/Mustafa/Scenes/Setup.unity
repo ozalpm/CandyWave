@@ -275,7 +275,7 @@ MonoBehaviour:
   headlessStartMode: 0
   editorAutoStart: 0
   sendRate: 60
-  offlineScene: Assets/Mustafa/Scenes/Menu.unity
+  offlineScene: Assets/Scenes/Menu.unity
   onlineScene: Assets/Mustafa/Scenes/Main.unity
   offlineSceneLoadDelay: 0
   transport: {fileID: 467894308}
