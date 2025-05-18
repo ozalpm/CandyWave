@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 963b24a7c4a7885438948b252ad988f5
+=======
+<<<<<<<< Updated upstream:Assets/Pack_FREE_Cars/Materials/ColorPalette.mat.meta
+guid: e3b23ac59fa96f64484d717adc73c95c
+>>>>>>> Stashed changes
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0

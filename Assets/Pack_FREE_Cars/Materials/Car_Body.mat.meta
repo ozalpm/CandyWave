@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 97b43c8fc5cbb354895d0bd66b37b6ac
+=======
+<<<<<<<< Updated upstream:Assets/Pack_FREE_Cars/Materials/Car_Body.mat.meta
+guid: 734c5085120588b48ad27a52a9077921
+========
+guid: c45f8d518167b724fb63cb6233b23509
+>>>>>>>> Stashed changes:Assets/Mustafa/Models/Child/1ijojuk.mat.meta
+>>>>>>> Stashed changes
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0

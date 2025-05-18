@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Mustafa/Scenes/Setup.unity
-    guid: 108768c5a305ac44991739187e5dc957
+    path: Assets/Scenes/Menu.unity
+    guid: 98516517decc875449de49bc42a7856f
   - enabled: 1
-    path: Assets/Mustafa/Scenes/Menu.unity
-    guid: a10aeb9e054e3d146989da7dc212ca8c
+    path: Assets/Scenes/PlayMenu.unity
+    guid: 58ed2f8a3b570b34e8a1660466cf5211
   - enabled: 1
-    path: Assets/Mustafa/Scenes/Main.unity
-    guid: 77f9d08d55cfcea4ba20e1eda8f046f2
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}
