@@ -1,19 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: 28aad4e47b6e74e42aa7ae9146bdf88a
-=======
-<<<<<<<< Updated upstream:Assets/Pack_FREE_Cars/Materials/ColorPalette.mat.meta
-<<<<<<< Updated upstream
-guid: 49c656c0444df684297a4f31d500537e
-=======
-guid: faad4e6205f782f4ab53aaadc5ab70ba
->>>>>>> Stashed changes
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-========
-guid: ccee4ca92cfa6d04ba0ac0274c54eb79
->>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
